@@ -4,6 +4,8 @@ body {
 }
 video { 
     position: fixed;
+    padding: 20px;
+    margin: 20px;
     top: 50%;
     left: 50%;
     min-width: 100%;
@@ -77,7 +79,8 @@ a:hover{
 #container
 {
     height:2000px;   
-    margin-top: 50px; 
+    margin-top: 50rem; 
+    padding-top: 50rem;
 }
 
 #container DIV
