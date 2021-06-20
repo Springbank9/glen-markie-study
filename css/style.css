@@ -12,13 +12,15 @@
 .jumbotron {
   position: relative;
   overflow: hidden;
-  padding: 30px 30px 30px 30px;
-  margin: 30px 30px 30px 30px;
+  margin-top: 30rem;
+  padding-top: 30rem;
+  width: 50vw;
 }
 
 .jumbotron .container {
   position: relative;
   z-index: 1;
+  
 }
 
 .btn  {
@@ -34,12 +36,6 @@
     padding-top: 50rem;
 }
 
-#container DIV
-{ 
-    margin:50px; 
-    padding:50px; 
-    background-color:pink; 
-}
 
 .hideme
 {
